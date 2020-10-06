@@ -1,0 +1,2 @@
+# Market-entry-strategy-for-Rebel-Foods
+Market entry strategy report supporting the launch of an Indian fast food company called ‘The Rebel Foods’ that operates based on the principle of ‘Cloud Kitchen’. The report considers issues in the report, such as competitors, market trends, target market demographics and consumer behavior, supply &amp; value chains, sales &amp; marketing options etc. Objective of the project report is to convince the board of the company to approve the report recommendation and invest in launching the service in Ireland.
